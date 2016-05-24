@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/samsung/i9300"
+name="CyanogenMod/android_device_samsung_i9300"
+revision="cm-10.1" />
+<project path="rpm/"
+name="myname/droid-hal-hammerhead" revision="master" />
+<project path="hybris/droid-configs"
+name="myname/droid-config-hammerhead" revision="master" />
+<project path="hybris/droid-hal-version-hammerhead"
+name="myname/droid-hal-version-hammerhead" revision="master" />
+</manifest>
