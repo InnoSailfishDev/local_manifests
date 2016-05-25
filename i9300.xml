@@ -4,9 +4,9 @@
 name="CyanogenMod/android_device_samsung_i9300"
 revision="cm-10.1" />
 <project path="rpm/"
-name="myname/droid-hal-i9300" revision="master" />
+name="InnoSailfishDev/droid-hal-i9300" revision="master" />
 <project path="hybris/droid-configs"
-name="myname/droid-config-i9300" revision="master" />
+name="InnoSailfishDev/droid-config-i9300" revision="master" />
 <project path="hybris/droid-hal-version-i9300"
-name="myname/droid-hal-version-i9300" revision="master" />
+name="InnoSailfishDev/droid-hal-version-i9300" revision="master" />
 </manifest>
